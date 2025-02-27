@@ -9,9 +9,9 @@ public class Tank {
         this(0, 0, 100);
     }
     public Tank(int x, int y){
-        this.x = x;
+
         this.y = y;
-    }
+    }uir
     public Tank(int x, int y, int fuel){
         this.x = x;
         this.y = y;
