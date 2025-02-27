@@ -11,7 +11,7 @@ public class Tank {
     public Tank(int x, int y){
 
         this.y = y;
-    }uir
+
     public Tank(int x, int y, int fuel){
         this.x = x;
         this.y = y;
